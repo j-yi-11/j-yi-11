@@ -5,10 +5,10 @@
 </h4>
 
 
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=j-yi-11&theme=dark" alt="j-yi-11's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-yi-11&layout=compact&hide_border=false&langs_count=10&theme=dark" alt="j-yi-11's Most used languages" />
+</div>
 
-
-[![j-yi-11's github stats](https://github-readme-stats.vercel.app/api?username=j-yi-11&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![j-yi-11's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=j-yi-11&layout=compact&hide_border=false&langs_count=10&theme=dark)
 
 
